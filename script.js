@@ -15,7 +15,7 @@ addEventListener("click", function(e){
         window.location.href = "./home.html"       
     }
     else{
-        alert("invalid")
+        alert("invalid Credentials!")
     }
 
 })
